@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 400" role="img" aria-label="Laptop showing code symbols">
+<path d="M70 220c-30-80 30-170 130-185 90-14 150 20 210 60 70 47 80 130 25 195-55 65-150 95-240 70-60-17-105-60-125-140z" fill="#FFE4F1"/>
+<g transform="translate(130 105)">
+  <rect x="0" y="0" width="260" height="170" rx="14" fill="#fff" stroke="#1F2937" stroke-width="7"/>
+  <rect x="14" y="14" width="232" height="142" rx="6" fill="#F3F4F6"/>
+  <text x="130" y="100" font-family="Poppins,Arial,sans-serif" font-size="56" font-weight="600" fill="#1F2937" text-anchor="middle">&lt;/&gt;</text>
+  <path d="M-28 182h316l-14 18H-14z" fill="#fff" stroke="#1F2937" stroke-width="7" stroke-linejoin="round"/>
+</g>
+<g fill="#7A5AF8"><path transform="translate(415 70) scale(1)" d="M0,-14 C2,-4 4,-2 14,0 C4,2 2,4 0,14 C-2,4 -4,2 -14,0 C-4,-2 -2,-4 0,-14Z"/><path transform="translate(450 125) scale(.6)" d="M0,-14 C2,-4 4,-2 14,0 C4,2 2,4 0,14 C-2,4 -4,2 -14,0 C-4,-2 -2,-4 0,-14Z"/><path transform="translate(95 280) scale(.7)" d="M0,-14 C2,-4 4,-2 14,0 C4,2 2,4 0,14 C-2,4 -4,2 -14,0 C-4,-2 -2,-4 0,-14Z"/></g>
+<circle cx="440" cy="300" r="8" fill="#FFB6D9"/><circle cx="90" cy="130" r="6" fill="#FFB6D9"/></svg>
